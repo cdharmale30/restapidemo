@@ -16,7 +16,7 @@ import org.json.JSONObject;
 public class RestClient {
 	public CloseableHttpResponse get(String url) throws ClientProtocolException, IOException {
 
-		// GetMethod
+		// GetMethod without headers
 		CloseableHttpClient httpClient = HttpClients.createDefault();
 		HttpGet httpGet = new HttpGet(url);
 		CloseableHttpResponse closebaleHttpResponse = httpClient.execute(httpGet);

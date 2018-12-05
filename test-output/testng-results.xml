@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2388" started-at="2018-12-04T18:38:47Z" finished-at="2018-12-04T18:38:49Z">
+  <suite name="Default suite" duration-ms="3215" started-at="2018-12-05T05:58:03Z" finished-at="2018-12-05T05:58:06Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2388" started-at="2018-12-04T18:38:47Z" finished-at="2018-12-04T18:38:49Z">
+    <test name="Default test" duration-ms="3215" started-at="2018-12-05T05:58:03Z" finished-at="2018-12-05T05:58:06Z">
       <class name="com.test.testcases.GetAPITest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.testcases.GetAPITest@2a2d45ba]" name="setUp" is-config="true" duration-ms="10" started-at="2018-12-04T18:38:47Z" finished-at="2018-12-04T18:38:47Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.testcases.GetAPITest@2a2d45ba]" name="setUp" is-config="true" duration-ms="15" started-at="2018-12-05T05:58:03Z" finished-at="2018-12-05T05:58:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="getAPITest()[pri:2, instance:com.test.testcases.GetAPITest@2a2d45ba]" name="getAPITest" duration-ms="1753" started-at="2018-12-04T18:38:47Z" finished-at="2018-12-04T18:38:49Z">
+        <test-method status="PASS" signature="getAPITest()[pri:2, instance:com.test.testcases.GetAPITest@2a2d45ba]" name="getAPITest" duration-ms="1701" started-at="2018-12-05T05:58:03Z" finished-at="2018-12-05T05:58:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getAPITest -->
-        <test-method status="PASS" signature="getAPIWithoutTest()[pri:2, instance:com.test.testcases.GetAPITest@2a2d45ba]" name="getAPIWithoutTest" duration-ms="579" started-at="2018-12-04T18:38:49Z" finished-at="2018-12-04T18:38:49Z">
+        <test-method status="PASS" signature="getAPIWithoutTest()[pri:2, instance:com.test.testcases.GetAPITest@2a2d45ba]" name="getAPIWithoutTest" duration-ms="1435" started-at="2018-12-05T05:58:05Z" finished-at="2018-12-05T05:58:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getAPIWithoutTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.testcases.GetAPITest@2a2d45ba]" name="setUp" is-config="true" duration-ms="0" started-at="2018-12-04T18:38:49Z" finished-at="2018-12-04T18:38:49Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.testcases.GetAPITest@2a2d45ba]" name="setUp" is-config="true" duration-ms="0" started-at="2018-12-05T05:58:05Z" finished-at="2018-12-05T05:58:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
